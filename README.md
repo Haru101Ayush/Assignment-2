@@ -1,2 +1,9 @@
 # Assignment-2
-AIM: To find the changed hash from the two sheets and return the value in the CLI 
+## AIM:
+Find users with changed password hashes between two sheets and return their usernames and user count in the CLI.
+
+### Instructions:
+1. Open the terminal.
+2. Run `dart pub get` to install dependencies.
+3. Run the project.
+
